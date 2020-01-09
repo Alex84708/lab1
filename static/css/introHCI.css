@@ -44,6 +44,10 @@ img .thumbnail{
 }
 
 .project{
-     background-color: red;
+     background-color: gainsboro;
      margin-left: 20px;
+}
+
+.sideprojects{
+     font: comic;
 }
